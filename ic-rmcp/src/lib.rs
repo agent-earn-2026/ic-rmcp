@@ -21,7 +21,6 @@ mod state;
 
 /// Self-service API key management (port of the Motoko `ApiKey.mo` module).
 pub mod api_key;
-
 /// Self-service API key management (port of the Motoko `ApiKey.mo` module).
 pub mod api_key;
 
