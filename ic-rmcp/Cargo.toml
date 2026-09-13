@@ -19,9 +19,6 @@ sha2 = "0.10"
 ic-cdk-timers = "0.12"
 
 [dev-dependencies]
-tokio-test = "0.4"
-
-[dev-dependencies]
 futures = "0.3"
 schemars = { version = "0.8" }
-
+tokio-test = "0.4"
