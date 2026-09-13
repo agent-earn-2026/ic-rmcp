@@ -14,6 +14,8 @@ rmcp = "0.2.1"
 ic-cdk = { version = "0.18", features = ["transform-closure"] }
 jsonwebtoken = { git = "https://github.com/ByteSmithLabs/jsonwebtoken.git", tag = "v9.3.1-port-wasm-ic" }
 url = "2.4.0"
+candid = "0.10"
+sha2 = "0.10"
 
 [dev-dependencies]
 futures = "0.3"
