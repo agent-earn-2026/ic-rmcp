@@ -22,6 +22,9 @@ mod state;
 /// Self-service API key management (port of the Motoko `ApiKey.mo` module).
 pub mod api_key;
 
+/// Self-service API key management (port of the Motoko `ApiKey.mo` module).
+pub mod api_key;
+
 /// OAuth configuration types for protecting your MCP server and advertising metadata.
 pub use handler::oauth::{IssuerConfig, OAuthConfig};
 /// Helper to generate a JSON Schema for a Rust type to describe tool parameters.
